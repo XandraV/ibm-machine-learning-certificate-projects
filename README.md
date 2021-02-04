@@ -7,7 +7,7 @@
 ![pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
-This [program](https://www.coursera.org/professional-certificates/ibm-machine-learning) consists of 6 courses to develop working skills in the main areas of Machine Learning: Supervised Learning, Unsupervised Learning, Deep Learning, Reinforcement Learning and specialized topics such as Time Series Analysis and Survival Analysis.
+This [program](https://www.coursera.org/professional-certificates/ibm-machine-learning) consists of 6 courses to develop working skills in the main areas of Machine Learning: **Supervised Learning**, **Unsupervised Learning**, **Deep Learning**, **Reinforcement Learning** and specialized topics such as **Time Series Analysis** and **Survival Analysis**.
 
 
 ## [Exploratory Data Analysis for Machine Learning](https://github.com/XandraV/ibm-machine-learning-certificate-projects/tree/master/exploratory-data-analysis)
@@ -29,10 +29,7 @@ The dataset for this project contains New York Stock Exchange historical metrics
 
 ## [Deep Learning and Reinforcement Learning](https://github.com/XandraV/ibm-machine-learning-certificate-projects/tree/master/deep-learning-image-recognition)
 
-In this project I used images of Egyptian hieroglyphs found in the Pyramid of Unas. The goal was to train an image classifier from scratch and utilize transfer learning to build a model that recognizes different hieroglyphs and predict their Gardiner labels:
-**S29** | **M17** | **X1** 
-- | - | - |-
-![s29](./deep-learning-image-recognition/data/test/S29/200086_S29.png) | ![m17](./deep-learning-image-recognition/data/test/M17/390082_M17.png) | ![x1](./deep-learning-image-recognition/data/test/X1/070100_X1.png) 
+In this project I used images of Egyptian hieroglyphs found in the Pyramid of Unas. The goal was to train an image classifier from scratch and utilize transfer learning to build a model that recognizes different hieroglyphs and predict their [Gardiner labels](https://en.wikipedia.org/wiki/Gardiner%27s_sign_list).
 
 ## [Specialized Models: Time Series and Survival Analysis](https://github.com/XandraV/ibm-machine-learning-certificate-projects/tree/master/time-series-and-survival-analysis)
 
