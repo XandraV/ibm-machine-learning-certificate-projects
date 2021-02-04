@@ -25,7 +25,7 @@ ClinVar is a public resource containing annotations about human genetic variants
 
 ## [Unsupervised Learning](https://github.com/XandraV/ibm-machine-learning-certificate-projects/tree/master/unsupervised-learning-clustering) :octocat:
 
-The dataset for this project contains New York Stock Exchange historical metrics. I focused on clustering and apply unsupervised learning techniques to find the best candidate algorithm that accurately predicts wether a company has net profit or net loss.
+The dataset for this project contains New York Stock Exchange historical metrics. I focused on clustering and apply unsupervised learning techniques to find the best candidate algorithm that accurately predicts whether a company has net profit or net loss.
 
 ## [Deep Learning and Reinforcement Learning](https://github.com/XandraV/ibm-machine-learning-certificate-projects/tree/master/deep-learning-image-recognition) :octocat:
 
