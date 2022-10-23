@@ -2,7 +2,7 @@
 ![Forks](https://img.shields.io/github/forks/xandrav/ibm-machine-learning-certificate-projects?style=social)
 ![Stars](https://img.shields.io/github/stars/xandrav/ibm-machine-learning-certificate-projects?style=social)
 
-# 🚀 IBM Machine Learning Professional Certificate ![coursera](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)
+# IBM Machine Learning Professional Certificate ![coursera](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)
 
 ![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
